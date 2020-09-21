@@ -1,0 +1,6 @@
+D:\ArrayProcess\Prime100\bin\Debug\Prime100.exe.config
+D:\ArrayProcess\Prime100\bin\Debug\Prime100.exe
+D:\ArrayProcess\Prime100\bin\Debug\Prime100.pdb
+D:\ArrayProcess\Prime100\obj\Debug\Prime100.csprojResolveAssemblyReference.cache
+D:\ArrayProcess\Prime100\obj\Debug\Prime100.exe
+D:\ArrayProcess\Prime100\obj\Debug\Prime100.pdb

@@ -1,0 +1,6 @@
+D:\ArrayProcess\ArrayProcess\bin\Debug\ArrayProcess.exe.config
+D:\ArrayProcess\ArrayProcess\bin\Debug\ArrayProcess.exe
+D:\ArrayProcess\ArrayProcess\bin\Debug\ArrayProcess.pdb
+D:\ArrayProcess\ArrayProcess\obj\Debug\ArrayProcess.exe
+D:\ArrayProcess\ArrayProcess\obj\Debug\ArrayProcess.pdb
+D:\ArrayProcess\ArrayProcess\obj\Debug\ArrayProcess.csprojResolveAssemblyReference.cache
